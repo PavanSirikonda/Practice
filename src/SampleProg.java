@@ -13,6 +13,10 @@ public class SampleProg {
 		driver.get("http://spicejet.com");
 		driver.manage().window().maximize();
 		
+		System.out.println("I made some changes will push these to github");
+		
+		
+		
 		
 
 	}
